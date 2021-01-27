@@ -1,0 +1,11 @@
+{
+  "name": "youyinnn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/youyinnn/youyinnn.git",
+  "author": "youyinnn <youyinnn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.9.5"
+  }
+}
