@@ -5,7 +5,12 @@
   "repository": "https://github.com/youyinnn/youyinnn.git",
   "author": "youyinnn <youyinnn@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "readme": "node src/scripts/readme-writer.js"
+  },
   "dependencies": {
-    "dayjs": "^1.9.5"
+    "axios": "^0.24.0",
+    "dayjs": "^1.9.5",
+    "htmlparser2": "^7.2.0"
   }
 }
