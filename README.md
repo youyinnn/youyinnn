@@ -20,6 +20,7 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
 
+[![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 mins          █████████████████▒░░░░░░░   69.81 % 
