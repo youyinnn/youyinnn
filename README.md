@@ -5,6 +5,9 @@ Currently a ECE master student at [Concordia Universty](https://www.concordia.ca
 I did my undergraduate studies at [South-Central University For Nationalities](http://www.scuec.edu.cn/s/1/t/560/main.htm), Wuhan, China.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ----
