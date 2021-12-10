@@ -1,15 +1,47 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda">
 
-**languages and tools:**
+#### About me
+Currently a ECE master student at [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
 
-<div style="float: left" ><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </div>
+I did my undergraduate studies at [South-Central University For Nationalities](http://www.scuec.edu.cn/s/1/t/560/main.htm), Wuhan, China.
 
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img style="float: left"  height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img style="float: left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+----
+
+#### Languages
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=20&layout=compact"></p>
+
+<!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Latex](https://img.shields.io/badge/-Latex-black?style=flat-square&logo=overleaf)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+
+#### Tools
+  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=flat-square&logo=jenkins)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-232F7E?style=flat-square&logo=alibaba-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+----
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=vue-dark&hide_border=true" />
+</p>
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
+
+
+<p align="center">Thanks</p>
+ 
