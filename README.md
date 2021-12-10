@@ -42,7 +42,7 @@ Java         1 min           ███████▓░░░░░░░░░
 ----
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=panda" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=vue-dark&hide_border=true" />
 </p>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
