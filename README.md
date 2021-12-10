@@ -22,7 +22,8 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 mins          █████████████████▒░░░░░░░   69.81 % 
+Java         1 min           ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
 ```
 <!--END_SECTION:waka-->
 
