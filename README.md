@@ -23,13 +23,13 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 [![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
-Vue.js       7 hrs 57 mins   ████████████████░░░░░░░░░   63.65 % 
-Other        2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
-JavaScript   1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Other        46 hrs 2 mins   ██████████████████░░░░░░░   72.52 % 
+Vue.js       11 hrs 1 min    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JavaScript   3 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+CSS          1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+HTML         54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
