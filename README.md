@@ -8,7 +8,7 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 #### Languages
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=20&layout=compact"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=20&layout=compact&theme=calm"></p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,16 +22,10 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 [![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
 <!--START_SECTION:waka-->
-```text
-Week: 13 December, 2021 - 19 December, 2021
 
-Other        46 hrs 2 mins   ██████████████████░░░░░░░   72.52 % 
-Vue.js       11 hrs 1 min    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-JavaScript   3 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-CSS          1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML         54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-```
 <!--END_SECTION:waka-->
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=calm&langs_count=6&layout=compact&custom_title=Last%207%20Days)
 
 #### Tools
 
@@ -59,6 +53,10 @@ HTML         54 mins         ▒░░░░░░░░░░░░░░░░
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
+
+#### Main Device
+
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
 
 ----
