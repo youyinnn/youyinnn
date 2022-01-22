@@ -25,7 +25,7 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=calm&langs_count=6&hide=other&layout=compact&custom_title=All%20the%20times)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=calm&langs_count=6&hide=other&layout=compact&custom_title=All%20the%20Times)
 
 #### Tools
 
