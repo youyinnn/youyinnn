@@ -10,7 +10,7 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=10&layout=compact&theme=swift">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=swift&langs_count=10&hide=other&layout=compact&custom_title=All%20the%20Times">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=swift&langs_count=10&hide=other&layout=compact&custom_title=Wakatime since DEC/9/2021">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
