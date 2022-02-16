@@ -9,8 +9,8 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 #### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=10&layout=compact&theme=graywhite">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=graywhite&langs_count=10&hide=other&layout=compact&custom_title=All%20the%20Times">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=10&layout=compact&theme=graywhite">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=graywhite&langs_count=10&hide=other&layout=compact&custom_title=All%20the%20Times">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
