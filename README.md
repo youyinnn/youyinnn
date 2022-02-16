@@ -8,7 +8,10 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 #### Languages
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=20&layout=compact&theme=calm"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=10&layout=compact&theme=graywhite">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=graywhite&langs_count=10&hide=other&layout=compact&custom_title=All%20the%20Times">
+</p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -25,7 +28,7 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=calm&langs_count=6&hide=other&layout=compact&custom_title=All%20the%20Times)
+
 
 #### Tools
 
@@ -62,8 +65,8 @@ I did my undergraduate studies at [South-Central University For Nationalities](h
 ----
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=panda" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=vue-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=graywhite&hide_border=true" />
 </p>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
 
