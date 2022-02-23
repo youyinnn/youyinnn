@@ -2,7 +2,7 @@
 #### About me
 Currently a ECE MASc student at [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
 
-I did my undergraduate studies at [South-Central University For Nationalities](http://www.scuec.edu.cn/s/1/t/560/main.htm), Wuhan, China.
+I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
 
 ----
 
