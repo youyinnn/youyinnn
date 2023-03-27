@@ -64,8 +64,9 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 
 ----
 
+<!-- https://github.com/anuraghazra/github-readme-stats/issues/2149 -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=nord" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=nord" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=nord&hide_border=true" />
 </p>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
