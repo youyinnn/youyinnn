@@ -9,8 +9,8 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 #### Languages
 
 <p align="left">
-  <img width="26%" src="https://github-readme-stats-youyinnn.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=dracula">
-  <img width="37.8%" src="https://github-readme-stats-youyinnn.vercel.app/api/wakatime?username=youyinnn&theme=dracula&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20since%20DEC/9/2021">
+  <img width="28%" src="https://github-readme-stats-youyinnn.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=dracula">
+  <img width="40.7%" src="https://github-readme-stats-youyinnn.vercel.app/api/wakatime?username=youyinnn&theme=dracula&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20since%20DEC/9/2021">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
