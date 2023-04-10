@@ -1,6 +1,6 @@
 
 #### About me
-Currently a ECE MASc student at [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
+Currently an ECE MASc student at [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
 
 I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
 
