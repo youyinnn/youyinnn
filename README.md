@@ -23,36 +23,12 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
 
-[![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-
-
-#### Tools
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
-  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-232F7E?style=flat-square&logo=alibaba-cloud)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-#### IDEs
-
+[![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
