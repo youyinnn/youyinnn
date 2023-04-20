@@ -29,12 +29,9 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-
-#### Main Device
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
 
