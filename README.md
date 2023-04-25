@@ -9,8 +9,8 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 #### Languages
 
 <p align="left">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=dracula">
-  <img width="40.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=dracula&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20since%20DEC/9/2021">
+  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true">
+  <img width="40.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20:%2009/12/2021&cache_seconds=14400&hide_border=true">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
@@ -39,8 +39,8 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/2149 -->
 <p align="left">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
-  <img width="40.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=dark&hide_border=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=rose_pine&cache_seconds=14400&hide_border=true" />
+  <img width="40.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=rose-pine&hide_border=true" />
 </p>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
 
