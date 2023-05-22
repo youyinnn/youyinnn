@@ -1,6 +1,9 @@
 
 #### About me
-Currently an ECE MASc student at [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
+
+Currently a Ph.D. student at ECE dept. of [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
+
+My research interest is in explainable AI.
 
 I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
 
