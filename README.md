@@ -3,7 +3,7 @@
 
 Currently a Ph.D. student at ECE dept. of [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
 
-My research interest is in explainable AI.
+My research interest is in explainable AI for Computer Vision.
 
 I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
 
@@ -41,10 +41,11 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 ----
 
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/2149 -->
-<p align="left">
+<!-- <p align="left">
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=youyinnn&include_all_commits=true&count_private=true&show_icons=true&theme=rose_pine&cache_seconds=14400&hide_border=true" />
   <img width="40.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=youyinnn&theme=rose-pine&hide_border=true" />
 </p>
+-->
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
 
 
