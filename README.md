@@ -1,17 +1,21 @@
 
-#### About me
+<h4 align="center">About Me</h4>
 
+<p align="center">
 Currently a Ph.D. student at ECE dept. of [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
-
+</p>
+<p align="center">
 My research interest is in explainable AI for Computer Vision.
-
+</p>
+<p align="center">
 I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
+</p>
 
 ----
 
-#### Languages
+<h4 align="center">Programming Languages</h4>
 
-<p align="left">
+<p align="center">
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true">
   <img width="40.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20:%2009/12/2021&cache_seconds=14400&hide_border=true">
 </p>
@@ -31,11 +35,21 @@ I did my undergraduate studies at [South-Central Minzu University](https://www.s
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
+<p align="center">
+<img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">
+<img  src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">
+<img  src="https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
+<img  src="https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg">
+</p>
+
+<!--
+
+![wakatime](https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
+-->
 
 ----
 
