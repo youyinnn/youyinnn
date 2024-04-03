@@ -2,13 +2,13 @@
 <h4 align="center">About Me</h4>
 
 <p align="center">
-Currently a Ph.D. student at ECE dept. of [Concordia Universty](https://www.concordia.ca/), Montreal, Canada.
+Currently a Ph.D. student at ECE dept. of <a href="https://www.concordia.ca/">Concordia University</a>, Montreal, Canada.
 </p>
 <p align="center">
 My research interest is in explainable AI for Computer Vision.
 </p>
 <p align="center">
-I did my undergraduate studies at [South-Central Minzu University](https://www.scuec.edu.cn/), Wuhan, China.
+I did my undergraduate studies at <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuhan, China.
 </p>
 
 ----
