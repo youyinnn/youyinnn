@@ -16,8 +16,8 @@ I did my undergraduate studies at <a href="https://www.scuec.edu.cn/">South-Cent
 <h4 align="center">Programming Languages</h4>
 
 <p align="center">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true">
-  <img width="40.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20:%2009/12/2021&cache_seconds=14400&hide_border=true">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true">
+  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20:%2009/12/2021&cache_seconds=14400&hide_border=true">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
