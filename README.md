@@ -38,7 +38,7 @@ I did my undergraduate studies at <a href="https://www.scuec.edu.cn/">South-Cent
 <p align="center">
 <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">
 <img  src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">
-<img  src="https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
+<img  src="https://img.shields.io/badge/Mac%20OS%20(x2)-000000?style=flat-square&logo=macos&logoColor=F0F0F0">
 <img  src="https://wakatime.com/badge/user/71877d58-88ba-4a68-934f-ddcc654b5da0.svg">
 </p>
 
