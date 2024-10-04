@@ -2,22 +2,22 @@
 <h4 align="center">About Me</h4>
 
 <p align="center">
-Currently a Ph.D. student at ECE dept. of <a href="https://www.concordia.ca/">Concordia University</a>, Montreal, Canada.
+Currently a Ph.D. candidate in <a href="https://www.concordia.ca/">Concordia University</a>, Montreal, Canada.
 </p>
 <p align="center">
-My research interest is in explainable AI for Computer Vision.
+Research interest is in explainable AI for Computer Vision.
 </p>
 <p align="center">
-I did my undergraduate studies at <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuhan, China.
+B.E in: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuhan, China.
 </p>
 
 ----
 
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">Coding</h4>
 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true">
-  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Wakatime%20:%2009/12/2021&cache_seconds=14400&hide_border=true">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true&custom_title=Lang-frequency">
+  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Hours%20since:%2009/12/2021&cache_seconds=14400&hide_border=true">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
