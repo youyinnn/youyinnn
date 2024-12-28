@@ -5,10 +5,10 @@
 Currently a Ph.D. candidate in <a href="https://www.concordia.ca/">Concordia University</a>, Montreal, Canada.
 </p>
 <p align="center">
-Research interest is in explainable AI for Computer Vision.
+Research interest: Explainable AI for Computer Vision.
 </p>
 <p align="center">
-B.E in: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuhan, China.
+B.E: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuhan, China.
 </p>
 
 ----
