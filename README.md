@@ -16,8 +16,8 @@ B.E: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuh
 <h4 align="center">Coding</h4>
 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyinnn&hide=HTML&langs_count=8&layout=compact&theme=rose_pine&cache_seconds=14400&hide_border=true&custom_title=Lang-frequency">
-  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=youyinnn&theme=rose_pine&langs_count=10&hide=other&layout=compact&custom_title=Hours%20since:%2009/12/2021&cache_seconds=14400&hide_border=true">
+  <img width="30%" src="https://raw.githubusercontent.com/youyinnn/youyinnn/refs/heads/master/profile/top-langs.svg">
+  <img width="43.7%" src="https://raw.githubusercontent.com/youyinnn/youyinnn/refs/heads/master/profile/wakatime.svg">
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
@@ -64,3 +64,4 @@ B.E: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuh
 <p align="center"> <a href="https://users.encs.concordia.ca/~hu_ju/">https://users.encs.concordia.ca/~hu_ju/</a></p>
 <!-- <p align="center">Thanks</p> -->
  
+
