@@ -235,7 +235,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX - 1,270 hrs 18 mins
+        TeX - 1,270 hrs 25 mins
       </text>
     </g>
   
