@@ -149,7 +149,7 @@
             data-testid="lang-progress"
             x="315.921"
             y="0"
-            width="80.631"
+            width="80.67750000000001"
             height="8"
             fill="#b07219"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="396.552"
+            x="396.5985"
             y="0"
             width="26.644500000000004"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="423.1965"
+            x="423.243"
             y="0"
             width="15.0195"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.216"
+            x="438.2625"
             y="0"
             width="6.370500000000001"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="444.5865"
+            x="444.633"
             y="0"
             width="6.045"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="450.6315"
+            x="450.678"
             y="0"
             width="5.8125"
             height="8"
@@ -207,7 +207,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="456.444"
+            x="456.4905"
             y="0"
             width="4.9755"
             height="8"
@@ -217,7 +217,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.4195"
+            x="461.466"
             y="0"
             width="3.72"
             height="8"
@@ -242,7 +242,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 862 hrs 34 mins
+        Java - 863 hrs 1 min
       </text>
     </g>
   
