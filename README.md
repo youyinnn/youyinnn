@@ -61,7 +61,11 @@ B.E: <a href="https://www.scuec.edu.cn/">South-Central Minzu University</a>, Wuh
 -->
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
 
-<p align="center"> <a href="https://users.encs.concordia.ca/~hu_ju/">https://users.encs.concordia.ca/~hu_ju/</a></p>
+<p align="center"> 
+  <a href="https://youyinnn.github.io/academic-pages/">https://youyinnn.github.io/academic-pages/</a>
+  or
+  <a href="https://users.encs.concordia.ca/~hu_ju/">https://users.encs.concordia.ca/~hu_ju/</a>
+</p>
 <!-- <p align="center">Thanks</p> -->
  
 
